@@ -8,7 +8,7 @@ public class Queue_Try {
 	private int x; 
 	private int y;
 	private int step_count;
-	private Queue_Try prev;
+	private Queue_Try prev;   
 	
 	public Queue_Try(int y, int x, int step_count, Queue_Try prev) {
 		this.x = x;
